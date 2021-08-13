@@ -25,6 +25,16 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+```markdown
+# Các dòng lệnh thường xuyên dùng nhất của Git
+`Code` $ git status
+`Code` $ git clone
+`Code` $ git add -A
+### hoặc
+`Code` $ git add .
+`Code` $ git commit 
+`Code` $ git push -u origin master
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
