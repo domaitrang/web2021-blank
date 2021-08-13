@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Chào mừng bạn đến với Web Summer 2021
 
-You can use the [editor on GitHub](https://github.com/domaitrang/summerweb2021/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Bạn có thể dùng [editor on GitHub](https://github.com/domaitrang/summerweb2021/edit/master/README.md) để duy trì và xem trước nội dung website của bạn trong các tệp Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ngay khi có thay đổi, GitHub Pages sẽ chạy [Jekyll](https://jekyllrb.com/) để build lại trang của bạn, từ nội dung của các tệp Markdown.
 
 ### Markdown
 
